@@ -44,7 +44,7 @@ body {
   border-radius: 10px;
 }
 .qr-code-text {
-  width: 90%;
+  max-width: 88%;
   margin: auto;
 }
 h2 {
@@ -60,7 +60,8 @@ h2 {
 /*responsiveness*/
 @media (min-width: 500px) {
   .container {
-    width: 400px;
+    width: 320px;
+    height: 500px;
   }
 }
 
