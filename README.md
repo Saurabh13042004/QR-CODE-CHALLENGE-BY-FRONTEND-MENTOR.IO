@@ -21,14 +21,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/preview.png)
+![](.design/desktop-design.jpg)
 
 
-
+F:\CSS CHALLENGES AND PROJECTS\qr-code-component-main\design\desktop-design.jpg
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Click Here]https://saurabh13042004.github.io/QR-CODE-CHALLENGE-BY-FRONTEND-MENTOR.IO/)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-MTZ2w5NKvy
+- Live Site URL: https://saurabh13042004.github.io/QR-CODE-CHALLENGE-BY-FRONTEND-MENTOR.IO/)
 
 ## My process
 
@@ -37,7 +37,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
