@@ -23,8 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](.design/desktop-design.jpg)
 
-
-F:\CSS CHALLENGES AND PROJECTS\qr-code-component-main\design\desktop-design.jpg
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-MTZ2w5NKvy
