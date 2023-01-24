@@ -42,7 +42,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-The major learnings while working through this project was to implement the learning of CSS i learned . Through this i also learned how to use the CSS flexbox and media queried to make the website responsive. I also learned how to use the CSS variables to make the website more dynamic and easy to change the color of the website.
+The major learnings while working through this project was to implement the learning of CSS i learned . Through this i also learned how to use the CSS flexbox and media queries to make the website responsive. I also learned how to use the CSS variables to make the website more dynamic and code readable . 
 
 Some code that I'm proud of (just a part of fun):
 
